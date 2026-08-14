@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "channel": "stable",
+  "tagName": "v0.5.0",
+  "versionName": "0.5.0",
+  "versionCode": 5,
+  "releaseTime": "2026-08-14T12:35:40Z",
+  "title": "LDZ Flow 0.5.0",
+  "body": "Stability, performance and user experience improvements.",
+  "apkUrl": "https://github.com/Alexandersss/LDZ-Flow-Releases/releases/download/v0.5.0/LDZ-Flow-v0.5.0.apk",
+  "sha256": "c293151d7f8029b50eff6508b796d2af8122b18bd292b9818e3c2f531a1935ae",
+  "size": 52570420,
+  "packageName": "it.ldz.flow",
+  "minSdk": 26,
+  "mandatory": false,
+  "sourceUrl": "https://github.com/Alexandersss/LDZ-Flow-Releases/releases/download/v0.5.0/LDZ-Flow-v0.5.0-source.zip"
+}
